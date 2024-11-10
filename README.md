@@ -49,7 +49,7 @@ The form also includes a submit button with a hover effect (btn btn-warning), ma
 
 #Footer:
 -------
-The footer is designed with a 4-column layout for large device and 3-column layout for medium devices using Bootstrap’s grid system. It includes a company logo, quick links, social media links, and a newsletter subscription form.
+The footer is designed with a 4-column layout for large device and 2-column layout for medium devices using Bootstrap’s grid system. It includes a company logo, quick links, social media links, and a newsletter subscription form.
 The social media icons are added using Font Awesome icons and are styled for easy accessibility.
 
 #Responsive Design:
