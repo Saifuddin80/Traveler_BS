@@ -4,8 +4,8 @@
 This is a responsive travel website designed using HTML, CSS, and Bootstrap 5. The website includes key sections such as a header with navigation bar, a carousel as hero section, travel packages, an about section, a contact form, and a footer with social links and a newsletter subscription form. The overall design prioritizes a clean, modern look with user-friendly features, leveraging Bootstrap components for responsiveness and styling.
 
 #Design Choices:
----------------
-Color Scheme:
+================
+#Color Scheme:
 -------------
 The primary color theme is yellow (#f0ad4e), complemented by light gray and dark gray shades for backgrounds, text, and accents. The color scheme reflects a warm, adventurous feeling, suitable for a travel website.
 Typography:
@@ -24,7 +24,7 @@ The carousel in the hero section provides a visually dynamic introduction to the
 The carousel automatically transitions between images with a 5-second interval, but users can also manually navigate between slides.
 Cards for Travel Packages:
 
-Travel packages are displayed in responsive Bootstrap cards that adjust based on screen size. Each card includes an image, title, brief description, and a "Book Now" button. The use of shadow-lg class adds a soft shadow for better visual hierarchy.
+Travel packages are displayed in responsive Bootstrap cards that adjust based on screen size. Each card includes an image, title, short description, and a "Book Now" button. The use of shadow-lg class adds a soft shadow for better visual hierarchy.
 Unique Bootstrap Features Implemented:
 
 #Navbar:
@@ -48,7 +48,7 @@ The form also includes a submit button with a hover effect (btn btn-warning), ma
 
 Footer:
 -------
-The footer is designed with a 3-column layout using Bootstrap’s grid system. It includes a company logo, quick links, social media links, and a newsletter subscription form.
+The footer is designed with a 4-column layout for large device and 3-column layout for medium devices using Bootstrap’s grid system. It includes a company logo, quick links, social media links, and a newsletter subscription form.
 The social media icons are added using Font Awesome icons and are styled for easy accessibility.
 
 Responsive Design:
