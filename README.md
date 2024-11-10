@@ -31,8 +31,9 @@ Unique Bootstrap Features Implemented:
 -------
 The navbar is created using Bootstrap’s navbar-expand-md class to make it responsive. It collapses into a hamburger menu on smaller screens, ensuring the layout remains usable on mobile devices.
 The navbar also includes a search bar, allowing users to search for specific content directly from the navigation.
-Carousel:
 
+#Carousel:
+----------
 The carousel in the hero section uses the carousel, carousel-inner, and carousel-item classes from Bootstrap to manage image slides and captions.
 The carousel indicators (button elements with data-bs-target) allow users to manually select the slide they want to view.
 Autoplay and manual navigation are enabled with Bootstrap’s built-in classes for controlling carousel behavior.
@@ -46,17 +47,18 @@ The use of col-md-4 and col-lg-3 ensures that the cards are properly aligned and
 The contact form utilizes Bootstrap’s form-floating classes for a clean and modern input field design. Each field has a floating label, and the form is styled to be fully responsive.
 The form also includes a submit button with a hover effect (btn btn-warning), maintaining the site's color consistency.
 
-Footer:
+#Footer:
 -------
 The footer is designed with a 4-column layout for large device and 3-column layout for medium devices using Bootstrap’s grid system. It includes a company logo, quick links, social media links, and a newsletter subscription form.
 The social media icons are added using Font Awesome icons and are styled for easy accessibility.
 
-Responsive Design:
+#Responsive Design:
 ------------------
 The website is fully responsive, thanks to Bootstrap's mobile-first grid system, with media queries that adapt the layout to different screen sizes.
 Columns automatically collapse and stack on smaller devices, ensuring a smooth user experience on mobile, tablet, and desktop screens.
 
-Key Features:
+#Key Features:
+==============
 Responsive layout that adjusts to different screen sizes using Bootstrap’s grid system.
 Bootstrap carousel for an engaging hero section with image sliders, captions and call-to-action buttons.
 Custom font ("Nothing You Could Do") for a unique, personal feel.
